@@ -1,0 +1,5 @@
+C:\Users\Krish\Downloads\CSharpSamples (1)\LanguageSamples\CollectionClasses\CollectionClasses1\bin\Debug\CollectionClasses1.exe
+C:\Users\Krish\Downloads\CSharpSamples (1)\LanguageSamples\CollectionClasses\CollectionClasses1\bin\Debug\CollectionClasses1.pdb
+C:\Users\Krish\Downloads\CSharpSamples (1)\LanguageSamples\CollectionClasses\CollectionClasses1\obj\Debug\CollectionClasses1.csprojResolveAssemblyReference.cache
+C:\Users\Krish\Downloads\CSharpSamples (1)\LanguageSamples\CollectionClasses\CollectionClasses1\obj\Debug\CollectionClasses1.exe
+C:\Users\Krish\Downloads\CSharpSamples (1)\LanguageSamples\CollectionClasses\CollectionClasses1\obj\Debug\CollectionClasses1.pdb

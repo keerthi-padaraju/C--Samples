@@ -1,0 +1,5 @@
+C:\Users\Krish\Downloads\CSharpSamples (1)\LanguageSamples\Delegates\Delegates1\bin\Debug\Delegates1.exe
+C:\Users\Krish\Downloads\CSharpSamples (1)\LanguageSamples\Delegates\Delegates1\bin\Debug\Delegates1.pdb
+C:\Users\Krish\Downloads\CSharpSamples (1)\LanguageSamples\Delegates\Delegates1\obj\Debug\Delegates1.csprojResolveAssemblyReference.cache
+C:\Users\Krish\Downloads\CSharpSamples (1)\LanguageSamples\Delegates\Delegates1\obj\Debug\Delegates1.exe
+C:\Users\Krish\Downloads\CSharpSamples (1)\LanguageSamples\Delegates\Delegates1\obj\Debug\Delegates1.pdb
